@@ -14,7 +14,7 @@ To join this organization: <br>
 
 ----------------------
 
-### Org. Maintainer
+### Maintainer
 
 [ved.V](https://github.com/DARJYO-developer)
 
