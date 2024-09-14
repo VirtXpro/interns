@@ -9,10 +9,11 @@
 ## I Am Interested in the Following Internship Position(s):
 <!-- Check the position(s) you are interested in -->
 
-- [ ] Front-end Development
-- [ ] Back-end Development
-- [ ] Full-stack Development
-- [ ] UI/UX Design
+- [ ] Cloud-Based Agritech Solutions
+- [ ] AI-Powered Agritech Innovation
+- [ ] IoT for Smart Agriculture
+- [ ] Cybersecurity in Agritech
+- [ ] Blockchain for Agritech Transparency
 - [ ] Other: <!-- Insert any other positions you may be interested in -->
 
 ## Motivation:
