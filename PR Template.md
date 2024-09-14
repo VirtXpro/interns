@@ -8,7 +8,7 @@
 - GitHub profile (required): <!-- Insert your Github URL here -->
 - LinkedIn profile (optional): <!-- Insert your LinkedIn profile URL here -->
 
-## I Am Interested in the Following Internship Position(s):
+## I Am Interested in the Following Internship(s):
 <!-- Check the position(s) you are interested in -->
 
 - [ ] Cloud-Based Agritech Solutions
