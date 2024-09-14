@@ -10,4 +10,4 @@ For example: <br>
 
 Members of this organization : <br>
 
-* Ved.V [DARJYJO-developer] https://github.com/DARJYO-developer
+* Ved.V [DARJYO-developer] [https://github.com/DARJYO-developer]
