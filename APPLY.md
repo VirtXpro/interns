@@ -1,6 +1,8 @@
 <img src="https://github.com/DARJYO/virtXpro/blob/main/img/vxp.png" height="25%" width="25%">    
 
-Gain practical experience by working on real-world projects. 
+VirtxPro is the brainchild of DARJYO, an emerging tech startup committed to creating innovative solutions for the future of work.
+
+Gain practical experience by working on real-world projects with us. 
 
 # How to apply?
 
