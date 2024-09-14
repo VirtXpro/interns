@@ -1,8 +1,8 @@
-# Join the Organization
+# Join this Organization
 
 <br>
 
-To join the organization, Kindly : <br>
+To join this organization: <br>
 
 * Star this repo.
 
