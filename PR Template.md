@@ -1,5 +1,7 @@
 ## About Me:
 
+<!-- Please add a picture here --> 
+
 - First name: <!-- Please insert your First Name here -->
 - Last name: <!-- Please insert your Last Name here -->
 - Email: <!-- Please insert your email here -->
