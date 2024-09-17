@@ -2,3 +2,7 @@
 
 ### Internship Applications
 Please add your application in this folder!
+
+also,
+
+### Make sure to READ all Markdowns in this folder.
