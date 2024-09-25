@@ -1,5 +1,5 @@
 ## About Me:
-![Erick_Mogor] (![alt text](Erick_Mogor-2.jpg))
+(https://github.com/user-attachments/assets/dbbc20f0-06b5-485e-b2aa-e29c3d03520c)
 
 
 - First name: Erick 
