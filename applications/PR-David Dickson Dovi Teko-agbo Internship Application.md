@@ -16,7 +16,6 @@ About Me:
 ## Motivation:
 I am eager to intern with DARJYO because I am passionate about leveraging AI and technology to solve real-world problems. The opportunity to work on innovative, AI-powered solutions excites me as it aligns with my experience in developing AI-driven applications and mobile solutions. I believe agritech has enormous potential to drive sustainable growth and improve food security, and I'm enthusiastic about contributing my technical skills in mobile app development, AI, and cloud-based solutions to this mission.  I am eager to learn from your team while bringing my skills to the table to help push the boundaries of innovation in agritech.
 
-
 ## I Would Like to Add:
 I have a strong foundation in software development, with hands-on experience in mobile app development, AI integration, and cloud-based technologies. Recently, I have been focused on creating AI-powered mobile applications using Flutter and Firebase, including an AI Workout Routine Creator app, which I plan to launch commercially. In addition, I have experience building web applications, such as a gym website that features dynamic functionalities like load-shedding schedules and membership sign-ups.
 
