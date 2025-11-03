@@ -1,6 +1,8 @@
 ## About Me:
+![1647979312074](https://github.com/user-attachments/assets/dc1d67d0-0c5b-4866-b274-3fffde0acc2a)
 
-<!-- Please add a picture here --> 
+
+
 
 - First name: Phiwokuhle 
 - Last name: Tshazi
