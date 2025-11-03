@@ -14,23 +14,21 @@
 
 - [X] Cloud-Based Agritech Solutions
 - [X] AI-Powered Agritech Innovation
-- [*] IoT for Smart Agriculture
-- [*] Cybersecurity in Agritech
-- [*] Blockchain for Agritech Transparency
-- [*] Other: <!-- Insert any other positions you may be interested in -->
+- [X] IoT for Smart Agriculture
+- [X] Cybersecurity in Agritech
+- [X] Blockchain for Agritech Transparency
+- [X] Other: <!-- Insert any other positions you may be interested in -->
 
 ## Motivation:
-<!-- Briefly describe why you want to intern with us and what excites you about the role(s) -->
-
-## I Would Like to Add:
+I am applying for an internship at Darjyo as part of my Work Integrated Learning (WIL) program, which is a vital requirement for my graduation. This opportunity is not only essential for fulfilling my academic obligations, but also represents a chance to gain practical experience in a dynamic and innovative environment. I am eager to contribute to Darjyo’s mission while developing my professional skills, learning from industry experts, and applying the theoretical knowledge I’ve gained throughout my studies. I believe this internship will be a meaningful step toward my career goals and personal growth.
 <!-- Add any other details about your skills, interests, or experiences that would help describe you here -->
 
 ## Final Checklist:
 <!-- Make sure to check all these items -->
 
-- [*]  I have included my resume (Markdown or PDF version) in the 'interns' folder
-- [*]  I am genuinely interested in this internship with DARJYO
-- [*]  I am excited to learn and grow while contributing to the team
-- [*]  I meet many of the qualifications listed
-- [*]  I understand the internship is unpaid and remote
-- [*]  All the information I have provided is accurate and truthful
+- [X]  I have included my resume (Markdown or PDF version) in the 'interns' folder
+- [X]  I am genuinely interested in this internship with DARJYO
+- [X]  I am excited to learn and grow while contributing to the team
+- [X]  I meet many of the qualifications listed
+- [X]  I understand the internship is unpaid and remote
+- [X]  All the information I have provided is accurate and truthful
