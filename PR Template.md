@@ -5,7 +5,7 @@
 - First name: Phiwokuhle 
 - Last name: Tshazi
 - Email: Phiwokuhletshazi5@gmail.com
-- GitHub profile (required): <!-- Insert your Github URL here -->
+- GitHub profile (required): https://github.com/Phiwokuhletshazi5
 
 ## I Am Interested in the Following Internship(s):
 <!-- Check the position(s) you are interested in -->
