@@ -23,6 +23,26 @@
 I am applying for an internship at Darjyo as part of my Work Integrated Learning (WIL) program, which is a vital requirement for my graduation. This opportunity is not only essential for fulfilling my academic obligations, but also represents a chance to gain practical experience in a dynamic and innovative environment. I am eager to contribute to Darjyo’s mission while developing my professional skills, learning from industry experts, and applying the theoretical knowledge I’ve gained throughout my studies. I believe this internship will be a meaningful step toward my career goals and personal growth.
 <!-- Add any other details about your skills, interests, or experiences that would help describe you here -->
 
+## I Would Like To Add
+
+As part of my academic journey, I have developed a strong foundation in both front-end and back-end programming. I am proficient in a range of languages that equip me to contribute effectively to diverse development projects. These skills will enable me to adapt quickly and add value during my internship experience.
+
+Languages I Know:
+
+HTML
+
+CSS
+
+JavaScript
+
+PHP
+
+C++
+
+Java
+
+VB.NET
+
 ## Final Checklist:
 <!-- Make sure to check all these items -->
 
