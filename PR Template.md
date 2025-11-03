@@ -2,9 +2,9 @@
 
 <!-- Please add a picture here --> 
 
-- First name: <!-- Please insert your First Name here -->
-- Last name: <!-- Please insert your Last Name here -->
-- Email: <!-- Please insert your email here -->
+- First name: Phiwokuhle 
+- Last name: Tshazi
+- Email: Phiwokuhletshazi5@gmail.com
 - GitHub profile (required): <!-- Insert your Github URL here -->
 - LinkedIn profile (optional): <!-- Insert your LinkedIn profile URL here -->
 
