@@ -58,5 +58,5 @@ Upload a professional headshot of yourself here:
 - []  I meet many of the qualifications listed
 - []  I understand the internship is unpaid and remote
 - []  I have followed DARJYO on all its social media platforms to stay engaged and informed 
-- []  I have sent an email to info@darjyo.com notifying that I have completed all Application Tasks.
+- []  I have sent an email to **info@darjyo.com** notifying that I have completed all Application Tasks.
 - []  All the information I have provided to DARJYO is accurate and truthful
