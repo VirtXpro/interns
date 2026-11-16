@@ -1,4 +1,4 @@
-<img src="https://github.com/DARJYO/virtXpro/blob/main/img/vxp.png" height="25%" width="25%">    
+<img src="[https://github.com/DARJYO/virtXpro/blob/main/img/vxp.png](https://avatars.githubusercontent.com/u/178642586?s=400&u=6eac6262819b5298ce4ba76aaae0dceacd704df5&v=4)" height="25%" width="25%">    
 
 VirtxPro is the brainchild of DARJYO, an emerging tech startup committed to creating innovative solutions for the future of work.
 
